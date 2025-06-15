@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @hissyam90
-- 👀 I’m interested in Ryo Yamada
-- 🌱 I’m currently learning masak kebab
-- 💞️ I’m looking to collaborate on Valorant
+
 
 
 <!---
