@@ -312,8 +312,3 @@ Saya percaya bahwa fondasi yang kuat di semester awal akan membentuk karir yang 
 <img src="https://komarev.com/ghpvc/?username=hissyam90&style=flat-square&label=Profile%20views" alt="views" />
 
 </div>
-
-<sub>
-README ini menampilkan cakupan teknologi luas agar profil tampak komprehensif.  
-Trim sesuai pengalaman nyata agar tetap profesional & kredibel.
-</sub>
