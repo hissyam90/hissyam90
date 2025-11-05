@@ -284,8 +284,6 @@ Saya percaya bahwa fondasi yang kuat di semester awal akan membentuk karir yang 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hissyam90&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hissyam90&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
 </div>
 
 <sub>
