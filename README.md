@@ -274,11 +274,6 @@ Trim bagian yang tidak relevan agar tetap kredibel.
 
 ---
 
-## 🤝 Kolaborasi & Kontak
-*email@domain.com* · [Website](https://websitekamu.com) · [LinkedIn](https://www.linkedin.com/in/username)
-
----
-
 <sub>
 README ini menampilkan cakupan teknologi luas agar profil tampak komprehensif.  
 Trim sesuai pengalaman nyata agar tetap profesional & kredibel.
