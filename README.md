@@ -275,13 +275,6 @@ Trim bagian yang tidak relevan agar tetap kredibel.
 
 ---
 
-## 📂 Proyek Pilihan
-> Ganti dengan daftar repo/portofolio kamu (tautan biasa agar sederhana & stabil).
-
-- *Nama Proyek A* — deskripsi singkat nilai & teknologi kunci.  
-- *Nama Proyek B* — deskripsi singkat nilai & teknologi kunci.  
-- *Nama Proyek C* — deskripsi singkat nilai & teknologi kunci.
-
 ---
 
 ## ✍ Publikasi / Berbagi
