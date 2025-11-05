@@ -274,13 +274,6 @@ Trim bagian yang tidak relevan agar tetap kredibel.
 
 ---
 
----
-
-## ✍ Publikasi / Berbagi
-- Artikel/Talk/Workshop: tautan 1 · tautan 2 · tautan 3
-
----
-
 ## 🤝 Kolaborasi & Kontak
 *email@domain.com* · [Website](https://websitekamu.com) · [LinkedIn](https://www.linkedin.com/in/username)
 
