@@ -16,20 +16,25 @@ Trim bagian yang tidak relevan agar tetap kredibel.
 
 </div>
 
----
-
 ## 🚀 Sekilas Tentang Saya
-- Membangun produk end-to-end: arsitektur → backend → frontend → CI/CD → observability.
-- Clean code, testing, dan security-first. Fokus pada *skalabilitas, **reliabilitas, dan **biaya efisien*.
-- Kolaborasi lintas tim, mentoring, dan kontribusi open-source.
+
+Mahasiswa Informatika Universitas Mulawarman yang sedang mengembangkan passion di dunia programming dan teknologi. Saat ini aktif mempelajari fondasi ilmu komputer melalui pengalaman akademis dan praktikum hands-on.
+
+**Fokus Pembelajaran:**
+- 💻 Membangun pemahaman solid tentang algoritma dan struktur data
+- 🔧 Eksplorasi hardware dan IoT melalui praktikum Organisasi Komputer (Arduino, mikrokontroler)
+- 🧩 Menerapkan konsep pemrograman dasar dalam berbagai project dan tugas praktikum
+- 📚 Terus belajar best practices dalam clean code dan problem-solving
+
+**Pengalaman Praktikum:**
+- **Organisasi Komputer**: Bekerja dengan Arduino, sensor, dan komponen elektronik untuk memahami interaksi hardware-software
+- **Algoritma Pemrograman Dasar**: Implementasi berbagai algoritma sorting, searching, dan struktur data fundamental
+
+Saya percaya bahwa fondasi yang kuat di semester awal akan membentuk karir yang solid di bidang teknologi. Terbuka untuk kolaborasi project, belajar bersama, dan berbagi pengalaman dengan sesama mahasiswa atau developer lain.
 
 ---
 
-## 💼 Layanan/Keahlian Inti
-*Product Engineering* (web, mobile, microservices, realtime) • *Cloud & DevOps* (container, orchestration, IaC, CI/CD, monitoring) •  
-*Data & ML* (pipeline, analitik, dashboard, model prototipe) • *Consulting* (arsitektur, audit performa, modernisasi)
-
----
+**Status:** 🎓 Mahasiswa Aktif | 🌱 Sedang Belajar | 🔍 Terbuka untuk Kolaborasi Project
 
 ## 🧰 Core Stack (Ringkas)
 <div align="center">
