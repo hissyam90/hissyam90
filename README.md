@@ -276,6 +276,18 @@ Saya percaya bahwa fondasi yang kuat di semester awal akan membentuk karir yang 
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hissyam90&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hissyam90&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hissyam90&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+</div>
+
 <sub>
 README ini menampilkan cakupan teknologi luas agar profil tampak komprehensif.  
 Trim sesuai pengalaman nyata agar tetap profesional & kredibel.
