@@ -114,7 +114,6 @@ Saya percaya bahwa fondasi yang kuat di semester awal akan membentuk karir yang 
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff" />
 <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=fff" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
-<img src="https://img.shields.io/badge/AWS%20SQS-FF4F8B?style=for-the-badge&logo=awslambda&logoColor=fff" />
 
 </div>
 
