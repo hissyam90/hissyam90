@@ -7,7 +7,7 @@ Trim bagian yang tidak relevan agar tetap kredibel.
 <div align="center">
 
 # Antung Hissyam
-• Full-Stack • Cloud/DevOps • Data/ML Enthusiast*
+*• Full-Stack • Cloud/DevOps • Data/ML Enthusiast*
 
 [![Freelance](https://img.shields.io/badge/Freelance-Available-0ea5e9?style=for-the-badge)](#)
 
