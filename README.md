@@ -9,9 +9,6 @@ Trim bagian yang tidak relevan agar tetap kredibel.
 # Antung Hissyam
 • Full-Stack • Cloud/DevOps • Data/ML Enthusiast*
 
-[![Website](https://img.shields.io/badge/Website-Visit-0d9488?style=for-the-badge&logo=firefoxbrowser)](https://websitekamu.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/username)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge)](#)
 [![Freelance](https://img.shields.io/badge/Freelance-Available-0ea5e9?style=for-the-badge)](#)
 
 </div>
