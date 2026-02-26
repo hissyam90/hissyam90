@@ -23,11 +23,11 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hissyam90&theme=ayu-mirage&show_icons=true&include_all_commits=true&count_private=true" alt="Hissyam's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hissyam90&theme=ayu-mirage&show_icons=true&include_all_commits=true&count_private=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hissyam90&theme=ayu-mirage" alt="Hissyam's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hissyam90&theme=ayu-mirage" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hissyam90&theme=ayu-mirage&layout=compact" alt="Hissyam's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hissyam90&theme=ayu-mirage&layout=compact" />
 </p>
 
 <!-- Profile views (opsional) -->
