@@ -24,9 +24,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hissyam90&theme=ayu-mirage&show_icons=true&include_all_commits=true&count_private=true" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hissyam90&theme=ayu-mirage" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hissyam90&theme=ayu-mirage&layout=compact" />
 </div>
 
