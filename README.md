@@ -2,12 +2,6 @@
 
 <div align="center">
 
-<!-- Main stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hissyam90&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
-
-<!-- Top languages with percentages (progress bars ON) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hissyam90&layout=compact&hide_progress=false&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
 <!-- Activity graph (endpoint baru vercel) -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hissyam90&theme=github-compact&hide_border=true&area=true&radius=8)
 
