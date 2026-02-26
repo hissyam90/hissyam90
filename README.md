@@ -18,9 +18,6 @@
   <img width="395" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hissyam90&theme=github_dark&utcOffset=7" />
 </p>
 
-<!-- Trophy (ringkas, no frame) -->
-![Trophy](https://github-profile-trophy.vercel.app/?username=hissyam90&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
-
 <!-- Profile views (opsional) -->
 <img src="https://komarev.com/ghpvc/?username=hissyam90&style=flat-square&label=Profile%20views" alt="views" />
 
