@@ -22,12 +22,6 @@
   <img width="395" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hissyam90&theme=github_dark&utcOffset=7" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hissyam90&theme=ayu-mirage&show_icons=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hissyam90&theme=ayu-mirage" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hissyam90&theme=ayu-mirage&layout=compact" />
-</div>
-
 <!-- Profile views (opsional) -->
 <img src="https://komarev.com/ghpvc/?username=hissyam90&style=flat-square&label=Profile%20views" alt="views" />
 
