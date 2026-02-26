@@ -22,7 +22,7 @@
   <img width="395" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hissyam90&theme=github_dark&utcOffset=7" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hissyam90&theme=ayu-mirage&show_icons=true&include_all_commits=true&count_private=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hissyam90&theme=ayu-mirage" />
