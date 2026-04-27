@@ -5,9 +5,12 @@
 ## GitHub Highlights
 
 <div align="center">
-
-<!-- Activity graph (endpoint baru vercel) -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hissyam90&theme=github-compact&hide_border=true&area=true&radius=8)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hissyam90/hissyam90/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hissyam90/hissyam90/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hissyam90/hissyam90/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <!-- Profile summary cards (grid) -->
 <p>
