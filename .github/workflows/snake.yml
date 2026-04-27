@@ -2,12 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Mengeksekusi setiap 12 jam
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
     - main
+
+# INI TAMBAHANNYA: Memberikan izin agar action bisa menyimpan gambar
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -26,7 +29,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        # INI UPDATE-NYA: Menggunakan v4 agar tidak muncul warning Node.js 20
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
