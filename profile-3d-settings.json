@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "backgroundColor": "#0b090a",
+  "foregroundColor": "#e3dadd",
+  "strongColor": "#f3e9ec",
+  "weakColor": "#55474b",
+  "radarColor": "#a43a54",
+  "contribColors": [
+    "#211317",
+    "#421b25",
+    "#662637",
+    "#91364c",
+    "#c95a72"
+  ],
+  "growingAnimation": true,
+  "fileName": "profile-burgundy.svg"
+}
