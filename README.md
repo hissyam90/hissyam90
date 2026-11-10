@@ -97,12 +97,6 @@ A personal portfolio built to present projects and certificates, with content ma
   <img width="100%" src="./profile-3d-contrib/profile-burgundy.svg" alt="3D GitHub contribution landscape">
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hissyam90&bg_color=0b090a&color=e3dadd&line=8f3048&point=c45a72&area_color=35141c&area=true&hide_border=true&custom_title=Recent%20Activity" alt="Recent GitHub activity graph">
-</p>
-
-<sub>The 3D contribution landscape is generated daily by GitHub Actions. The activity graph shows recent public GitHub activity.</sub>
-
 ---
 
 <p align="center">
