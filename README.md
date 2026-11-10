@@ -14,7 +14,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/hissyam90/saring-app">Saring</a>
+### <a href="https://saring.app/">Saring</a>
 
 A digital trust companion for checking suspicious messages, phone numbers, and links. Includes scenario-based learning and practical guidance for handling digital fraud incidents.
 
@@ -22,8 +22,6 @@ A digital trust companion for checking suspicious messages, phone numbers, and l
 <img src="https://img.shields.io/badge/TypeScript-24232A?style=flat-square&logo=typescript&logoColor=9DBDEB" alt="TypeScript">
 <img src="https://img.shields.io/badge/Tailwind_CSS-24232A?style=flat-square&logo=tailwindcss&logoColor=9BCAD5" alt="Tailwind CSS">
 <img src="https://img.shields.io/badge/PostgreSQL-24232A?style=flat-square&logo=postgresql&logoColor=9DB7D5" alt="PostgreSQL">
-
-<a href="https://saring.app">Live site</a> · <a href="https://github.com/hissyam90/saring-app">Source</a>
 
 </td>
 <td width="50%" valign="top">
@@ -38,8 +36,6 @@ A local-first WebGIS for monitoring fire hotspots across Kalimantan, combining N
 <img src="https://img.shields.io/badge/TensorFlow-24232A?style=flat-square&logo=tensorflow&logoColor=D7A46A" alt="TensorFlow">
 <img src="https://img.shields.io/badge/Leaflet-24232A?style=flat-square&logo=leaflet&logoColor=A8C18A" alt="Leaflet">
 
-<a href="https://github.com/hissyam90/kalimantan-wildfire-hotspot-detection">Source</a>
-
 </td>
 </tr>
 <tr>
@@ -53,22 +49,6 @@ A collaborative mapping project for exploring power-plant distribution, renewabl
 <img src="https://img.shields.io/badge/FastAPI-24232A?style=flat-square&logo=fastapi&logoColor=9BC8B2" alt="FastAPI">
 <img src="https://img.shields.io/badge/PostgreSQL-24232A?style=flat-square&logo=postgresql&logoColor=9DB7D5" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Leaflet-24232A?style=flat-square&logo=leaflet&logoColor=A8C18A" alt="Leaflet">
-
-<a href="https://github.com/hissyam90/webgis-kaltim">Source</a>
-
-</td>
-<td width="50%" valign="top">
-
-### <a href="https://github.com/hissyam90/portofolio-antunghissyam">Personal Portfolio</a>
-
-A personal portfolio built to present projects and certificates, with content managed through Supabase.
-
-<img src="https://img.shields.io/badge/React-24232A?style=flat-square&logo=react&logoColor=9BCAD5" alt="React">
-<img src="https://img.shields.io/badge/Vite-24232A?style=flat-square&logo=vite&logoColor=C6B8E8" alt="Vite">
-<img src="https://img.shields.io/badge/Tailwind_CSS-24232A?style=flat-square&logo=tailwindcss&logoColor=9BCAD5" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Supabase-24232A?style=flat-square&logo=supabase&logoColor=9BC6A6" alt="Supabase">
-
-<a href="https://github.com/hissyam90/portofolio-antunghissyam">Source</a>
 
 </td>
 </tr>
