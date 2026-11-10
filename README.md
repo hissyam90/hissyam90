@@ -73,21 +73,8 @@ A personal portfolio built to present projects and certificates, with content ma
 </td>
 </tr>
 </table>
-<br>
-<img align="left" width="240" src="https://github.com/hissyam90.png" alt="Antung Hissyam">
 
-<pre>
-  
-FOCUS       Web Development / Data Visualization
-LANGUAGES   TypeScript, JavaScript, Python, PHP
-FRAMEWORKS  React, Next.js, Vite
-DATABASES   PostgreSQL, MySQL
-
-</pre>
-
-<br clear="left">
-
----
+<h1></h1>  
 
 <p align="center">
   <sub>Built with care, one commit at a time.</sub>
