@@ -77,9 +77,7 @@ A personal portfolio built to present projects and certificates, with content ma
 <img align="left" width="240" src="https://github.com/hissyam90.png" alt="Antung Hissyam">
 
 <pre>
-<b>ANTUNG HISSYAM</b>
-Informatics Student · Universitas Mulawarman
-
+  
 FOCUS       Web Development / Data Visualization
 LANGUAGES   TypeScript, JavaScript, Python, PHP
 FRAMEWORKS  React, Next.js, Vite
